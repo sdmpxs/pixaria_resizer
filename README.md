@@ -1,7 +1,7 @@
 pixaria_resizer
 ===============
 
-A photoshop script that will run through a directory of images resizing and organizing them for upload to a Pixaria installation.
+A photoshop script that will run through a directory of images resizing and organizing them for upload to a Pixaria installation. This has been used for years reliably so if it will be of some use to you, great. Anyone want to look at adding panels for the new versions of Photoshop?
 
 About the script
 ----------------
@@ -16,21 +16,23 @@ This script works with Photoshop CS, CS2, CS3 & CS4 definately as I have tried i
 Installation, setup and use
 ---------------------------
 
-    Extract the PixariaCS.js script to your Photoshop scripts directory. 
-    *	On the Mac, this is located at "/Applications/Adobe Photoshop CSx/Presets/Scripts". 
-    *	On windows this is located at "C:\Program Files\Adobe\Photoshop xx\Presets\Scripts". 
+1.	Extract the PixariaCS.js script to your Photoshop scripts directory.
 
-    Open the script in a text editor so that you can change some of the personal details that are required at the top of the files… these are;
-     1.   	Comp size
-     2.  	Author
-     3.   	Caption Writer
-     4.   	Copyright Notice
-     5.   	Owner URL
-     6.   	Generic Title
-     7.   	Jpeg quality
-     8.   	Full sized directory
-     9.		Save the file
-     10.	In Photoshop, select "File>Scripts>PixariaCS"
-     11. 	Select the source directory where all of your images are located
-     12.	Choose your output location, this should be an empty directory where the Pixaria directories will be created.
-     13.	Upload the output directory as required!
+	    *	On the Mac, this is located at "/Applications/Adobe Photoshop CSx/Presets/Scripts". 
+	    *	On windows this is located at "C:\Program Files\Adobe\Photoshop CSx\Presets\Scripts". 
+
+2.	Open the script in a text editor so that you can change some of the personal details that are required at the top of the files… these are;
+    * Comp size
+    * Author
+    * Caption Writer
+    * Copyright Notice
+    * Owner URL
+    * Generic Title
+    * Jpeg quality
+    * Full sized directory
+    
+3.	Save the file
+4.	In Photoshop, select _"File>Scripts>PixariaCS"_
+5. Select the source directory where all of your images are located
+6.	Choose your output location, this should be an empty directory where the Pixaria directories will be created.
+7.	Upload the output directory as required!
